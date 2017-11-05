@@ -1,0 +1,6 @@
+10 4 50 0 George
+11 4 40 0 John
+12 5 60 0 Jane
+20 500 60 0 George
+21 700 80 0 John
+22 1000 100 0 Jane3
